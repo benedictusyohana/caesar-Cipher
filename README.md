@@ -1,4 +1,4 @@
-<h1>Caesar Cipher<h1>
+Caesar Cipher
 This is an encryption program that takes in text input from a user and encrypts the inputed text . It only encrypts letters with the user providing the encryption key which must be between numbers 1-26.
 
 Author
